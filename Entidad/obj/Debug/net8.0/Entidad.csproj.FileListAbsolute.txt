@@ -1,0 +1,11 @@
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Entidad\bin\Debug\net8.0\Entidad.deps.json
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Entidad\bin\Debug\net8.0\Entidad.dll
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Entidad\bin\Debug\net8.0\Entidad.pdb
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Entidad\obj\Debug\net8.0\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Entidad\obj\Debug\net8.0\Entidad.AssemblyInfoInputs.cache
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Entidad\obj\Debug\net8.0\Entidad.AssemblyInfo.cs
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Entidad\obj\Debug\net8.0\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Entidad\obj\Debug\net8.0\Entidad.dll
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Entidad\obj\Debug\net8.0\refint\Entidad.dll
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Entidad\obj\Debug\net8.0\Entidad.pdb
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Entidad\obj\Debug\net8.0\ref\Entidad.dll

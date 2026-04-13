@@ -1,0 +1,17 @@
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Controlador\bin\Debug\net8.0\Controlador.deps.json
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Controlador\bin\Debug\net8.0\Controlador.dll
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Controlador\bin\Debug\net8.0\Controlador.pdb
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Controlador\bin\Debug\net8.0\Datos.dll
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Controlador\bin\Debug\net8.0\Entidad.dll
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Controlador\bin\Debug\net8.0\Datos.pdb
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Controlador\bin\Debug\net8.0\Entidad.pdb
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Controlador\obj\Debug\net8.0\Controlador.csproj.AssemblyReference.cache
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Controlador\obj\Debug\net8.0\Controlador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Controlador\obj\Debug\net8.0\Controlador.AssemblyInfoInputs.cache
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Controlador\obj\Debug\net8.0\Controlador.AssemblyInfo.cs
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Controlador\obj\Debug\net8.0\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Controlador\obj\Debug\net8.0\Controla.6B62700F.Up2Date
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Controlador\obj\Debug\net8.0\Controlador.dll
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Controlador\obj\Debug\net8.0\refint\Controlador.dll
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Controlador\obj\Debug\net8.0\Controlador.pdb
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Controlador\obj\Debug\net8.0\ref\Controlador.dll

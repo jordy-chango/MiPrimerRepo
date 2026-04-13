@@ -1,0 +1,15 @@
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Datos\bin\Debug\net8.0\Datos.deps.json
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Datos\bin\Debug\net8.0\Datos.dll
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Datos\bin\Debug\net8.0\Datos.pdb
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Datos\bin\Debug\net8.0\Entidad.dll
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Datos\bin\Debug\net8.0\Entidad.pdb
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Datos\obj\Debug\net8.0\Datos.csproj.AssemblyReference.cache
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Datos\obj\Debug\net8.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Datos\obj\Debug\net8.0\Datos.AssemblyInfoInputs.cache
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Datos\obj\Debug\net8.0\Datos.AssemblyInfo.cs
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Datos\obj\Debug\net8.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Datos\obj\Debug\net8.0\Datos.csproj.Up2Date
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Datos\obj\Debug\net8.0\Datos.dll
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Datos\obj\Debug\net8.0\refint\Datos.dll
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Datos\obj\Debug\net8.0\Datos.pdb
+C:\Users\jordy\source\repos\Proyecto_Poe_Emprendimientos\Datos\obj\Debug\net8.0\ref\Datos.dll

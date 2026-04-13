@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jordy\\source\\repos\\Proyecto_Poe_Emprendimientos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB7B609-4A4C-4870-B7E2-29CC99699F01}|Datos\\Datos.csproj|c:\\users\\jordy\\source\\repos\\proyecto_poe_emprendimientos\\datos\\utilimagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB7B609-4A4C-4870-B7E2-29CC99699F01}|Datos\\Datos.csproj|solutionrelative:datos\\utilimagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB7B609-4A4C-4870-B7E2-29CC99699F01}|Datos\\Datos.csproj|c:\\users\\jordy\\source\\repos\\proyecto_poe_emprendimientos\\datos\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB7B609-4A4C-4870-B7E2-29CC99699F01}|Datos\\Datos.csproj|solutionrelative:datos\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79694AE-CF75-4BA0-A1D7-FE6B5D845C2E}|Presentacion\\Presentacion.csproj|c:\\users\\jordy\\source\\repos\\proyecto_poe_emprendimientos\\presentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D79694AE-CF75-4BA0-A1D7-FE6B5D845C2E}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79694AE-CF75-4BA0-A1D7-FE6B5D845C2E}|Presentacion\\Presentacion.csproj|C:\\Users\\jordy\\source\\repos\\Proyecto_Poe_Emprendimientos\\presentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D79694AE-CF75-4BA0-A1D7-FE6B5D845C2E}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79694AE-CF75-4BA0-A1D7-FE6B5D845C2E}|Presentacion\\Presentacion.csproj|C:\\Users\\jordy\\source\\repos\\Proyecto_Poe_Emprendimientos\\presentacion\\consultaemprendimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D79694AE-CF75-4BA0-A1D7-FE6B5D845C2E}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\consultaemprendimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B4E0E0-713D-4B4B-B1CD-A382447645EF}|Controlador\\Controlador.csproj|c:\\users\\jordy\\source\\repos\\proyecto_poe_emprendimientos\\controlador\\emprendimientocontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B4E0E0-713D-4B4B-B1CD-A382447645EF}|Controlador\\Controlador.csproj|solutionrelative:controlador\\emprendimientocontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D79694AE-CF75-4BA0-A1D7-FE6B5D845C2E}|Presentacion\\Presentacion.csproj|C:\\Users\\jordy\\source\\repos\\Proyecto_Poe_Emprendimientos\\presentacion\\frmgaleriafotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D79694AE-CF75-4BA0-A1D7-FE6B5D845C2E}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\frmgaleriafotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1091,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\jordy\\source\\repos\\Proyecto_Poe_Emprendimientos\\Presentacion\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\jordy\\source\\repos\\Proyecto_Poe_Emprendimientos\\Presentacion\\FrmLogin.cs",
+              "RelativeToolTip": "Presentacion\\FrmLogin.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T22:59:05.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jordy\\source\\repos\\Proyecto_Poe_Emprendimientos\\Presentacion\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\jordy\\source\\repos\\Proyecto_Poe_Emprendimientos\\Presentacion\\FrmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\FrmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T22:59:01.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsultaEmprendimientos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jordy\\source\\repos\\Proyecto_Poe_Emprendimientos\\Presentacion\\ConsultaEmprendimientos.cs",
+              "RelativeDocumentMoniker": "Presentacion\\ConsultaEmprendimientos.cs",
+              "ToolTip": "C:\\Users\\jordy\\source\\repos\\Proyecto_Poe_Emprendimientos\\Presentacion\\ConsultaEmprendimientos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\ConsultaEmprendimientos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T22:57:34.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmprendimientoControlador.cs",
+              "DocumentMoniker": "C:\\Users\\jordy\\source\\repos\\Proyecto_Poe_Emprendimientos\\Controlador\\EmprendimientoControlador.cs",
+              "RelativeDocumentMoniker": "Controlador\\EmprendimientoControlador.cs",
+              "ToolTip": "C:\\Users\\jordy\\source\\repos\\Proyecto_Poe_Emprendimientos\\Controlador\\EmprendimientoControlador.cs",
+              "RelativeToolTip": "Controlador\\EmprendimientoControlador.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T22:57:19.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UtilImagen.cs",
+              "DocumentMoniker": "C:\\Users\\jordy\\source\\repos\\Proyecto_Poe_Emprendimientos\\Datos\\UtilImagen.cs",
+              "RelativeDocumentMoniker": "Datos\\UtilImagen.cs",
+              "ToolTip": "C:\\Users\\jordy\\source\\repos\\Proyecto_Poe_Emprendimientos\\Datos\\UtilImagen.cs",
+              "RelativeToolTip": "Datos\\UtilImagen.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T22:56:47.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConexionBD.cs",
+              "DocumentMoniker": "C:\\Users\\jordy\\source\\repos\\Proyecto_Poe_Emprendimientos\\Datos\\ConexionBD.cs",
+              "RelativeDocumentMoniker": "Datos\\ConexionBD.cs",
+              "ToolTip": "C:\\Users\\jordy\\source\\repos\\Proyecto_Poe_Emprendimientos\\Datos\\ConexionBD.cs",
+              "RelativeToolTip": "Datos\\ConexionBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T22:56:39.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmGaleriaFotos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jordy\\source\\repos\\Proyecto_Poe_Emprendimientos\\Presentacion\\FrmGaleriaFotos.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FrmGaleriaFotos.cs",
+              "ToolTip": "C:\\Users\\jordy\\source\\repos\\Proyecto_Poe_Emprendimientos\\Presentacion\\FrmGaleriaFotos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\FrmGaleriaFotos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T21:30:17.161Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 151,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
